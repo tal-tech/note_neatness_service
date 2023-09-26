@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/performance_testing_.dir/performance_testing.o -o bin/performance_testing_   -L/home/diaoaijie/workspace/note_neatness_service/src/det_ge_mma_ctpn/test/lib  -Wl,-rpath,/home/diaoaijie/workspace/note_neatness_service/src/det_ge_mma_ctpn/test/lib -ldl 

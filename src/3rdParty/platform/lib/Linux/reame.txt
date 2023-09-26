@@ -1,0 +1,41 @@
+目录结构如下
+
+bin
+│  platform.dll
+│  Preferences.json
+│
+└─det_body_ssd
+    │  det_body_ssd.dll
+    │  det_body_ssd.pdb
+    │  manifest.ini
+    │
+    └─data
+        │  argv.txt
+        │  config.ini
+        │
+        └─models
+                det_body_ssd_v1.0.0.bin
+
+
+
+
+
+manifest.ini用来描述插件sdk
+
+[main]
+id=det_body_ssd
+bin=libdet_body_ssd.so
+version=1.2.3.4
+describe=this is a 
+
+
+
+
+
+Preferences.json用来描述platform
+
+{
+	"name": "插件平台",
+	"version": "3.0 .0 .0",
+	"plugins": ["det_body_ssd", "det_face_ssd", "cls_body_ssd"]
+}

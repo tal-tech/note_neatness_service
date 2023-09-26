@@ -1,0 +1,13 @@
+*~
+build/
+build_cpu/
+dllBuild_CPU/
+dllBuild_GPU/
+dllRelease/
+release/
+output/
+*.gch
+*.log
+.vscode
+cmake-build-*
+.idea/

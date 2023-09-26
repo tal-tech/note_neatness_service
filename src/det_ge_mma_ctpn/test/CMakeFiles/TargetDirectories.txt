@@ -1,0 +1,4 @@
+/home/diaoaijie/workspace/note_neatness_service/src/det_ge_mma_ctpn/test/CMakeFiles/demo_.dir
+/home/diaoaijie/workspace/note_neatness_service/src/det_ge_mma_ctpn/test/CMakeFiles/performance_testing_.dir
+/home/diaoaijie/workspace/note_neatness_service/src/det_ge_mma_ctpn/test/CMakeFiles/edit_cache.dir
+/home/diaoaijie/workspace/note_neatness_service/src/det_ge_mma_ctpn/test/CMakeFiles/rebuild_cache.dir

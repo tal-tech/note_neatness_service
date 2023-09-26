@@ -1,0 +1,14 @@
+# Package Information for pkg-config
+
+prefix=/home/alex/opencv3.4.5
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir_old=${prefix}/include/opencv
+includedir_new=${prefix}/include
+
+Name: OpenCV
+Description: Open Source Computer Vision Library
+Version: 3.4.5
+Libs: -L${exec_prefix}/lib -lopencv_cudabgsegm -lopencv_cudaobjdetect -lopencv_cudastereo -lopencv_dnn -lopencv_ml -lopencv_shape -lopencv_stitching -lopencv_cudafeatures2d -lopencv_superres -lopencv_videostab -lopencv_cudaoptflow -lopencv_cudalegacy -lopencv_objdetect -lopencv_calib3d -lopencv_features2d -lopencv_highgui -lopencv_videoio -lopencv_photo -lopencv_imgcodecs -lopencv_cudawarping -lopencv_cudaimgproc -lopencv_cudafilters -lopencv_video -lopencv_imgproc -lopencv_flann -lopencv_cudaarithm -lopencv_core -lopencv_cudev
+Libs.private: -lm -lpthread -lcudart_static -ldl -lrt -lnppc -lnppial -lnppicc -lnppicom -lnppidei -lnppif -lnppig -lnppim -lnppist -lnppisu -lnppitc -lnpps -lcublas -lcufft -L-L/usr/local/cuda-10.0 -llib64 -L-L/usr/lib -lx86_64-linux-gnu
+Cflags: -I${includedir_old} -I${includedir_new}

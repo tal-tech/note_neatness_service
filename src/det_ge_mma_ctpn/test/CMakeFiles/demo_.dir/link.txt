@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/demo_.dir/demo.o -o bin/demo_   -L/home/diaoaijie/workspace/note_neatness_service/src/det_ge_mma_ctpn/test/lib  -Wl,-rpath,/home/diaoaijie/workspace/note_neatness_service/src/det_ge_mma_ctpn/test/lib -ldl 

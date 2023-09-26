@@ -1,0 +1,5 @@
+{
+	"name": "²å¼þÆ½Ì¨",
+	"version": "3.0 .0 .0",
+	"plugins": ["det_body_ssd", "det_face_ssd", "cls_body_ssd"]
+}

@@ -1,0 +1,13 @@
+src/opencv3.4.5/lib/libopencv_cudafilters.so.3.4.5
+src/opencv3.4.5/lib/libopencv_cudaarithm.so.3.4
+src/opencv3.4.5/lib/libopencv_cudaoptflow.so.3.4.5
+src/opencv3.4.5/lib/libopencv_cudawarping.so.3.4
+src/opencv3.4.5/lib/libopencv_cudaarithm.so
+src/opencv3.4.5/lib/libopencv_cudawarping.so
+src/opencv3.4.5/lib/libopencv_cudaarithm.so.3.4.5
+src/opencv3.4.5/lib/libopencv_cudafilters.so.3.4
+src/opencv3.4.5/lib/libopencv_cudawarping.so.3.4.5
+src/opencv3.4.5/lib/libopencv_cudaoptflow.so.3.4
+src/opencv3.4.5/lib/libopencv_cudaoptflow.so
+src/opencv3.4.5/lib/libopencv_cudafilters.so
+src/det_ge_mma_ctpn/data/python/models/ctpn_50000.ckpt.data-00000-of-00001
